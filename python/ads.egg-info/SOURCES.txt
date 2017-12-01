@@ -1,9 +1,0 @@
-setup.py
-ads/__init__.py
-ads/main.py
-ads.egg-info/PKG-INFO
-ads.egg-info/SOURCES.txt
-ads.egg-info/dependency_links.txt
-ads.egg-info/not-zip-safe
-ads.egg-info/requires.txt
-ads.egg-info/top_level.txt

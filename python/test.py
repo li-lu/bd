@@ -1,2 +1,2 @@
-import ads
-print(ads.joke())
+import ads_bd
+print(ads_bd.joke())
