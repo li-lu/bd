@@ -25,7 +25,7 @@ public class AuditService {
 
 	@GET
 	@Path("/list/json")
-	@Produces(MediaType.APPLICATION_JSON)
+	@Produces("application/json")
 	public List<Audit> getAudit_json() {
 		return AuditDao.getAllAudits();
 	}
