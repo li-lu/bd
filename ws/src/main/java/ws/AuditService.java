@@ -31,7 +31,7 @@ public class AuditService {
 	}
 	
 	@GET
-	@Path("/list/xml")
+	@Path("/list.xml")
 	@Produces(MediaType.APPLICATION_XML)
 	public List<Audit> getAudit_xml() {
 		return AuditDao.getAllAudits();
